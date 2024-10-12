@@ -1,9 +1,9 @@
 a<- c(12, 14, 16, 17)
+
 b<- c(18, 12, 11, 10)
-
 c<- sum(a)
-d<- sum(b)
 
+d<- sum(b)
 cat(" Sum of a is:- ", c)
 cat(" Sum of b is:- ", c)
 
