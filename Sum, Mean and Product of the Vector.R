@@ -11,6 +11,11 @@ cat(" Sum of b is:- ",d)
 e<- length(a)
 f<- length(b)
 
-g<- c/e
+# Mean of Vectors
+
+g<- c/ e
+h<- d/ f
 
 cat("Mean of a is:- ", g)
+cat("Mean of b is:- ", h)
+
