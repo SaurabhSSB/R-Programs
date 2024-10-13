@@ -9,3 +9,6 @@ sample_without_replacement <- sample(population, sample_size, replace = FALSE)
 
 # Draw a random sample with replacement
 sample_with_replacement <- sample(population, sample_size, replace = TRUE)
+
+cat("Population Sample wihout replacement:- ", sample_without_replacement)
+cat("Population Smaple with replacement:- ", sample_with_replacement)
