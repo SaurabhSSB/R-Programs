@@ -19,3 +19,10 @@ h<- d/ f
 cat("Mean of a is:- ", g)
 cat("Mean of b is:- ", h)
 
+# Product of Vectors
+
+i<- prod(a)
+j<- prod(b)
+
+cat("Product of a is:- ", i)
+cat("Product of b is:- ", j)
