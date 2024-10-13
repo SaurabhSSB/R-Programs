@@ -10,6 +10,3 @@ g<- c/e
 
 cat("Mean of a is:- ", g)
 
-i<- prod(a)
-
-cat("Product of a is:- ",i)
