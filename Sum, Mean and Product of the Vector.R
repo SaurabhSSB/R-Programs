@@ -8,13 +8,10 @@ d<- sum(b)
 cat(" Sum of a is:- ", c)
 cat(" Sum of b is:- ",d)
 
-e<- length(a)
-f<- length(b)
-
 # Mean of Vectors
 
-g<- c/ e
-h<- d/ f
+g<- mean(a)
+h<- mean(b)
 
 cat("Mean of a is:- ", g)
 cat("Mean of b is:- ", h)
