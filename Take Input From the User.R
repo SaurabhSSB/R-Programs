@@ -1,9 +1,6 @@
 # To Take Input from User 
+
 a<- readline("Enter Name:- ")
-
-
-
-
 print(paste("Hi",a))
 
 b<-readline("Enter Age:- ")
