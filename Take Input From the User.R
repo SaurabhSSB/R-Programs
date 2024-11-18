@@ -7,8 +7,12 @@ b<-readline("Enter Age:- ")
 cat("Your age is",b)
 
 c<-scan()
-print(c)
 
+
+
+
+
+print(c)
 a=7/3
 print(a, digit= 4)
 
