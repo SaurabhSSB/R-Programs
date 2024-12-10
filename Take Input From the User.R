@@ -2,9 +2,10 @@
 
 a<- readline("Enter Name:- ")
 print(paste("Hi",a))
- 
-b<-readline("Enter Age:- ")
+ b<-readline("Enter Age:- ")
 cat("Your age is",b)
+
+
 
 c<-scan()
 print(c)
