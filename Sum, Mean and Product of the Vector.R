@@ -1,9 +1,9 @@
 a<- c(12, 14, 16, 17)
 b<- c(19, 18, 15, 13)
+
 # Sum of Vectors
 
 c<- sum(a)
-
 d<- sum(b)
 
 cat(" Sum of a is:- ", c)
